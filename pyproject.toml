@@ -1,0 +1,17 @@
+[project]
+name = "langgraph"
+version = "0.1.0"
+description = "Add your description here"
+readme = "RE    ADME.md"
+requires-python = ">=3.11"
+dependencies = [
+    "langgraph",
+    "langchain",
+    "langsmith",
+    "python-dotenv",
+    "langchain-groq",
+    "langchain_tavily",
+    "ipykernel>=7.1.0",
+    "langchain-community>=0.3.31",
+    "duckduckgo-search>=8.1.1",
+]
