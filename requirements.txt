@@ -15,3 +15,5 @@ pillow
 numpy
 scikit-learn
 faiss-cpu
+langchain-google-genai
+google-generativeai
